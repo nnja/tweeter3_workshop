@@ -1,0 +1,7 @@
+{
+    "appService.advancedCreation": true,
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ""
+}
